@@ -1,2 +1,6 @@
-<html>
+function app (){
+    return (
+        <div></div>
+    )
+}
   
